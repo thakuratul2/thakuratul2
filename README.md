@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-20.gif)
 <h1 align="center">Hi 👋, I'm Atul Pratap Singh</h1>
 <h3 align="center">I passionate to learn new technology to increase my Skills.</h3>
-<img align="center" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
+<img align="center" alt="Coding" width="400" src="https://gfycat.com/contentheftyguillemot">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakuratul2&label=Profile%20views&color=0e75b6&style=flat" alt="thakuratul2" /> </p>
 
