@@ -43,13 +43,13 @@
 
 ![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakuratul2&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
-<a href="https://github.com/thakuratul2/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B,B+&theme=swift)</a>
+<a href="https://github.com/thakuratul2/github-contributor-stats">![Atul's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=thakuratul2&hide=B,B+&theme=swift)</a>
 
 <strong>Top Repositories</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakuratul2&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/thakuratul2/react-native-lottie-splash-screen)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/HwangTaehyun/github-contributor-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/thakuratul2/github-contributor-stats)
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
