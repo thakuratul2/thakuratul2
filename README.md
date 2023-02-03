@@ -22,14 +22,8 @@
 <p align="left">
 <code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="thakuratul2" width="30" /></a></code>
 <code><a href="https://linkedin.com/in/atul-pratap-singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="atul-pratap-singh" height="30" width="30" /></a></code>
-<code><a href="https://fb.com/vani.mittal.35110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vani.mittal.35110" height="30" width="30" /></a></code>
-<code><a href="https://instagram.com/vani__001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vani__001" height="30" width="30" /></a></code>
-<code><a href="https://dribbble.com/vanimittal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vanimittal13" height="30" width="30" /></a></code>
-<code><a href="https://www.behance.net/vanimittal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vanimittal1" height="30" width="30" /></a></code>
-<code><a href="https://www.codechef.com/users/vanimittal13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vanimittal13" height="30" width="30" /></a></code>
-<code><a href="https://www.hackerrank.com/@vani_mittal_cse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vani_mittal_cse1" height="30" width="30" /></a></code>
-<code><a href="https://www.hackerearth.com/@vani__001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vani__001" height="30" width="30" /></a></code>
-<code><a href="https://auth.geeksforgeeks.org/user/vani9045060450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vani9045060450" height="30" width="30" /></a></code>
+<code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>
+<code><a href="https://auth.geeksforgeeks.org/user/thakuratul_28/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="thakuratul_28" height="30" width="30" /></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
