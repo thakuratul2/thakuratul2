@@ -38,7 +38,7 @@
             <td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
              <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -53,14 +53,12 @@
             <td width="80px" align="center">
             <span><strong>PHP</strong></span><br>
             <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></a>
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>C</strong></span><br>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+            
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
