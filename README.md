@@ -20,8 +20,8 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thakuratul2" width="30" /></a></code>
-<code><a href="https://linkedin.com/in/vani-m-a693931b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vani-m-a693931b7" height="30" width="30" /></a></code>
+<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="thakuratul2" width="30" /></a></code>
+<code><a href="https://linkedin.com/in/atul-pratap-singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="atul-pratap-singh" height="30" width="30" /></a></code>
 <code><a href="https://fb.com/vani.mittal.35110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vani.mittal.35110" height="30" width="30" /></a></code>
 <code><a href="https://instagram.com/vani__001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vani__001" height="30" width="30" /></a></code>
 <code><a href="https://dribbble.com/vanimittal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vanimittal13" height="30" width="30" /></a></code>
