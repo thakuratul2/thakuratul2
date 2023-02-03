@@ -58,7 +58,9 @@
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            
+            <span><strong>Laravel</strong></span><br>
+              <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
@@ -72,12 +74,12 @@
             <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"></a>
             </td>
         </tr>
     </tbody>
