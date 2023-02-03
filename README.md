@@ -31,9 +31,9 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+            <span><strong>Java</strong></span><br>
+            <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
