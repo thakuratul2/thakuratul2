@@ -1,14 +1,14 @@
 ![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
 
-<h1 align="center">Hi 👋, I'm Vani Mittal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Atul Pratap Singh</h1>
+<h3 align="center">A passionate full-stack developer and DSA Lover.</h3>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanimittal1304&label=Profile%20views&color=0e75b6&style=flat" alt="vanimittal1304" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vanimittal12" target="blank"><img src="https://img.shields.io/twitter/follow/vanimittal12?logo=twitter&style=for-the-badge" alt="vanimittal12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thakuratul_28" target="blank"><img src="https://img.shields.io/twitter/follow/thakuratul_28?logo=twitter&style=for-the-badge" alt="thakuratul_28" /></a> </p>
 
 - 🔭 I’m currently working on my backend skills and apparently working on different projects.
 
@@ -91,8 +91,8 @@
     </tbody>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanimittal1304&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="vanimittal1304" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakuratul2&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="thakuratul2" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vanimittal1304&show_icons=true&locale=en&show_icons=true&theme=radical" alt="vanimittal1304" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thakuratul2&show_icons=true&locale=en&show_icons=true&theme=radical" alt="thakuratul2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanimittal1304&&show_icons=true&theme=radical" alt="vanimittal1304" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakuratul2&&show_icons=true&theme=radical" alt="thakuratul2" /></p>
