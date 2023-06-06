@@ -20,7 +20,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="thakuratul2" width="30" /></a></code>
+<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="thakuratul2" width="30" /></a></code>
 <code><a href="https://linkedin.com/in/atul-pratap-singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="atul-pratap-singh" height="30" width="30" /></a></code>
 <code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>
 <code><a href="https://leetcode.com/thakuratul_28/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="thakuratul_28" height="30" width="30" /></a></code>
