@@ -20,7 +20,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.twitter.com%2Fen%2Fwho-we-are%2Fbrand-toolkit&psig=AOvVaw3e80U9u8m_McT7wTymvY4t&ust=1697727758691000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjAuPLu_4EDFQAAAAAdAAAAABAI" alt="thakuratul2" width="30" /></a></code>
+<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="thakuratul2" width="30" /></a></code>
 <code><a href="https://linkedin.com/in/atul-pratap-singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="atul-pratap-singh" height="30" width="30" /></a></code>
 <code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>
 <code><a href="https://leetcode.com/thakuratul_28/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="thakuratul_28" height="30" width="30" /></a></code>
