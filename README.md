@@ -132,7 +132,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@thakuratul2/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@bdbf3846-2cd7-436d-bd0c-e9cd0515a559/c94c2d4a-0d41-4586-9b8f-1dea139143b0.svg" />
 
 <br>
 <br>
@@ -196,8 +196,6 @@ Windows                  29 hrs 3 mins       ███████████�
 
 
 
-
- Last Updated on 21/12/2024 09:03:31 IST
 <!--END_SECTION:waka-->
 
 <p align="center">
